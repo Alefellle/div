@@ -1,0 +1,28 @@
+.Logo{
+    width: 200px;
+    height: 200px;
+}
+.Intro{
+    width: 80%;
+    height: 97vh;
+    float: right;
+    background-color: aqua;
+    
+}
+.mover{
+    margin-left: 30%;
+}
+.Menu{
+    width:20%;
+    height: 97vh;
+    float: left;
+    background-color: red;
+    margin-bottom: 50%;
+    border-right: ;
+}
+footer{
+    margin-left: 190px;
+}
+body{
+    margin-bottom: 10px;
+}
